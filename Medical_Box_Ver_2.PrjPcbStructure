@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=Block_Diagram.SchDoc|SheetNumber= 
+Record=SheetSymbol|SourceDocument=Block_Diagram.SchDoc|Designator=U_ESP8266|SchDesignator=U_ESP8266|FileName=ESP8266.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=ESP8266.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Block_Diagram.SchDoc|Designator=U_LOAD|SchDesignator=U_LOAD|FileName=LOAD.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=LOAD.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Block_Diagram.SchDoc|Designator=U_STM32F103C8T6|SchDesignator=U_STM32F103C8T6|FileName=STM32F103C8T6.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=STM32F103C8T6.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
